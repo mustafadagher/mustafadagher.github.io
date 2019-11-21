@@ -7,3 +7,83 @@
   description: |
     Re-Architecting, Re-Designing and Rebuilding the current iDeal Solution at ABN AMRO to be deployed on public cloud with maintaining higher availability (99.88%) as the main goal but also with creating a blue print for the microservices transformation for the whole IB in mind.
     The project suffered from changing the cloud platform (from AWS to Azure) half-way due to political/strategical reasons, so we also had to reconsider many architectural decisions and technology choices.
+- layout: top
+  name: Voice Enablement for Philips’s Air Purifier and Vacuum Cleaner
+  company: Mobiquity B.V.
+  quote: >-
+    AWS, CloudFoundary, Microservices, Java 8, JUnit, Mockito, MySQL, Jenkins
+  description: |
+    An Alexa skill to control and get insights and feedback from Philips's Air purifiers and robot vacuum cleaners.
+- layout: top
+  name: Lifecycle Management for Vodacom SA Music/Game Shop
+  company: Mondia Media
+  quote: >-
+   Microservices, Java 8, JUnit, TestNG, Mockito, MySQL, Jenkins
+  description: |
+    A music shop and a game shop built for Vodacom in South Africa to enable their subscribers to buy music subscriptions, packages and games in-app products, also to manage campaigns, loyalty gifts and periodic offers.
+    My role was to build the lifecycle management services, the integrations with the mobile operators, and also with the payment gateways
+- layout: top
+  name: Subscription Engine
+  company: Etisalat Misr
+  quote: >-
+   Java 8, Web Services, Oracle DB
+  description: |
+    An order management system that fulfill the business needs by  availing the necessary fulfillment actions on the backend systems such as IN, Billing, PCRF ... etc.
+- layout: top
+  name: Vodafone Egypt Extranet/DCA
+  company: Vodafone International Services
+  quote: >-
+   Java, Spring Framework, Web Services, JPA, Oracle DB
+  description: |
+    The DCA or the Extranet is the project by which Vodafone tracks its entities like agents, regional offices, dealers. It helps managing orders, transactions, payments and reports.
+    This project is divided in two parts, one of them is the analysis of the old code and extracting the business from it to be filled in business documents for the customer. The second part is the development of the revamp project using Spring MVC, Spring Data, JBoss Server.
+  link: https://extranet.vodafone.com.eg
+- layout: top
+  name: Ooredoo NTS (A Telecom OSS/BSS)
+  company: NTG Clarity
+  quote: >-
+   Java, Oracle DB, Primefaces, Hibernate, JAXB, JQuery
+  description: |
+    The Network Inventory and Configuration (NIC) module is a complete telecom engineering tool for data and voice networks. It provides a central inventory of all information relating to building, site, equipment and circuits. It allows you to design new sites, and remove equipment as required, and search and track inventory down to the port level. Its Graphics Aid Design allows you to see graphical representations of site layouts with racks, equipment and ports. It can also integrate with graphical tools such as Microsoft Office Visio.
+    The Network Discovery (NDR) module is the answer to keeping track of physical and logical resources directly from the network in a non-intrusive and automated manner. It provides a unified view of customer services and associated logical facilities over multi-vendor, multi-technology networks. This network management system allows you to discover your physical network hardware, connections and services and reconcile them with the inventory stored in your company’s database.
+  link: http://ntgclarity.com/products/details/nts-telco-in-a-box
+- layout: top
+  name: Advoice
+  company: ChannelVAS
+  quote: >-
+   Java, Spring, MyBatis, MySQL, JQuery
+  description: |
+    AdVoice is a new mobile advertising platform that enables Mobile Operators to monetize incoming calls by replacing the ringing tone with audio ads and Advertisers to engage with their target audience in a 1-on-1 fashion.
+    It couples the operator’s unique insights into their mobile subscribers with multi-channel ad serving capabilities (AdRBT, Messaging, IVR, Streaming, WAP, Web). AdVoice’s profiling and Bidding capabilities will enable Advertisers to manage campaigns online in very much the same way as Digital Advertising, in fact it enables them to re-target consumers over the operator channels, in addition to the Search and Display publishing channels.
+  link: http://www.advoice.com
+- layout: top
+  name: Medstreaming EMR
+  company: Medstreaming LLC
+  quote: >-
+   C#, ASP.NET, AngularJS, RESTful Web Services, Active Record, Entity Framework, SQL Server 2008
+  description: |
+    Medstreaming All In One EMR is the first fully integrated PACS, PM and EMR system that has a single backend database which enables integrated patient charting/evaluation workflow with image interpreting and structured reporting workflow. Medstreaming EMR image processing is 510K FDA cleared. Medstreaming EMR directly integrates with imaging device like Ultrasound, ECG, CT, MR, and XRay which eliminates the need for expensive HL7 and DICOM interfacing as well as the associated complexity of IT implementation and support.
+  link: http://www.medstreaming.com/Products/EMR
+- layout: top
+  name: RISduo, A Cloud-Baed Radiology Information System
+  company: Graduation Project
+  quote: >-
+   Java, Struts2, Spring 3, JSP, JQuery, Ajax, CSS
+  description: |
+    RISduo is a cloud-based software suite for managing medical imagery and associated data. It‘s especially useful for managing radiological records and associated data in a multiple locations and is often used in conjunction with a picture archiving and communication system (PACS) to manage work flow and billing.
+    RIS essentially concerns three functional areas; the patient management, the procedure management, the department management. Another major task of RIS is represented by its integration with the other information systems of Radiology and hospital to enable to share information in real time with the hospital information system (HIS) and the other information systems (system of first-aid management, intensive therapy units etc).
+  link: https://github.com/mustafadagher/RISduo1
+- layout: top
+  name: ElDar
+  company: College project
+  quote: >-
+   PHP, Yii framework, HTML, CSS, JavaScript, MySQL
+  description: |
+    El Dar is web-based ElderCare Information System (ECIS) which focuses on scheduling, tracking and reporting the residents' daily activities, appointments, medications, and vital signs.
+- layout: top
+  name: DSP2013
+  company: College project
+  quote: >-
+   PHP, HTML, CSS, JavaScript, MySQL
+  description: |
+    A web application developed specially for the demand of the “Digital Signal Processing” course Professor to enable him to post weekly tasks on it, set a summary and a deadline for it, and enable our classmates to submit their tasks and run it on the web (tasks were mainly written in html, php and java script) and the Doctor also run it, see the code and grade it, and both DR and students were able to comment on each submission.
