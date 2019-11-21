@@ -11,6 +11,7 @@
     - Prepared Knowledge sharing sessions for my team and other teams in the organization
 - layout: left 
   company: Mobiquity B.V.
+  link: https://www.mobiquity.com
   job_title: Java Developer
   dates: May 2017 - Dec 2017
   description: |
@@ -20,6 +21,7 @@
     - Developed an Alexa skills for Philips's Air purifiers and robot vacuum cleaners.
 - layout: left 
   company: Mondia Media Group GmbH
+  link: https://mondia.com
   job_title: Software Engineer
   dates: June 2016 - April 2017
   description: |
@@ -31,6 +33,7 @@
     - Rotated in the SCRUM Master role.
 - layout: left 
   company: NTG Clarity
+  link: https://ntgclarity.com
   job_title: Software Engineer
   dates: June 2015 - May 2016
   description: |
@@ -41,6 +44,7 @@
     - Worked on Vodafone Egypt’s Extranet (DCA) revamp Project.
 - layout: left 
   company: ChannelVAS
+  link: http://www.channelvas.com
   job_title: Java Software Engineer
   dates: March 2015 - May 2015
   description: |
@@ -50,6 +54,7 @@
     - Gave advices and consultation on current application/database design enhancements.
 - layout: left 
   company: Medstreaming LLC
+  link: https://www.medstreaming.com
   job_title: Software Engineer
   dates: September 2013 - March 2015
   description: |
