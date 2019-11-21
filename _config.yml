@@ -29,11 +29,11 @@ about_content: | # this will include new lines to allow paragraphs
   I’ve solid problem-solving capabilities, and I’ve participated in Architecting, Designing, Developing, Deploying and Maintaining many Highly Available and Distributed Microservices Applications over the past years. I’ve also been part of the transformation of some Monolithic apps to Microservices Architecture.
 
 
-# Projects Section
-# projects_title: Projects
-
 # Experience Section
 # experience_title: Experience
+
+# Projects Section
+# projects_title: Projects
 
 # Education Section
 # educaton_title: Education
@@ -41,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my interests in software engineering some of my other interests and hobbies are:
    - Poetry
    - Storytelling
    - Football
