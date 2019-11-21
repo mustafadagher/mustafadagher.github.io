@@ -1,0 +1,6 @@
+- layout: top-middle
+  name: iDeal On Cloud (In Progress)
+  link: https://www.abnamro.nl/en/personal/payments/making-payments/ideal.html
+  description: |
+    Re-Architecting, Re-Designing and Rebuilding the current iDeal Solution at ABN AMRO to be deployed on public cloud with maintaining higher availability (99.88%) as the main goal but also with creating a blue print for the microservices transformation for the whole IB in mind.
+    The project suffered from changing the cloud platform (from AWS to Azure) half-way due to political/strategical reasons, so we also had to reconsider many architectural decisions and technology choices.

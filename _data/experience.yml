@@ -1,0 +1,11 @@
+- layout: left
+  company: ABN AMRO Bank N.V.
+  link: https://www.abnamro.nl
+  job_title: Development Engineer III
+  dates: January 2018 - Present
+  description: | 
+    - Worked on maintaining and creating new features for Payments Backend in Internet Banking
+    - Created a Solution Intent to move iDEAL to public cloud with High Availability as a priority in mind
+    - Formed a new team to develop on the proposed solution for iDEAL
+    - Developed new CI/CD pipelines to fit the new way of working
+    - Prepared Knowledge sharing sessions for my team and other teams in the organization

@@ -1,0 +1,60 @@
+# Site
+repository: mustafadagher/mustafadagher.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: Mustafa Dagher
+title: Senior Software Engineer
+email: dagher.mustafa@gmail.com
+website: mustafadagher.github.io
+
+# Social links
+twitter_username: mustafadagher
+github_username:  mustafadagher
+# dribbble_username: mustafadagher
+# facebook_username: mustafadagher
+# flickr_username: mustafadagher
+instagram_username: mustafadagher
+linkedin_username: mustafadagher
+# pinterest_username: mustafadagher
+#youtube_username: mustafadagher
+# googleplus_username: +mustafadagher
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I’m a hands-on, passionate Software Engineer. I have exceptional technical and analytical skills, with 6+ years of experience with <mark>Java</mark>, <mark>Spring boot/<mark>, <mark>Microservices</mark>, CI/CD, <mark>DevOps</mark>, Containerization, and Cloud Platforms.
+  I’ve solid problem-solving capabilities, and I’ve participated in Architecting, Designing, Developing, Deploying and Maintaining many Highly Available and Distributed Microservices Applications over the past years. I’ve also been part of the transformation of some Monolithic apps to Microservices Architecture.
+
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Poetry
+   - Storytelling
+   - Football
+   - Pool
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
