@@ -24,7 +24,7 @@ linkedin_username: mustafadagher
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I’m a hands-on, passionate Software Engineer. I have exceptional technical and analytical skills, with 6+ years of experience with <mark>Java</mark>, <mark>Spring boot/<mark>, <mark>Microservices</mark>, CI/CD, <mark>DevOps</mark>, Containerization, and Cloud Platforms.
+  I’m a hands-on, passionate Software Engineer. I have exceptional technical and analytical skills, with 6+ years of experience with <mark>Java</mark>, <mark>Spring boot</mark>, <mark>Microservices</mark>, CI/CD, <mark>DevOps</mark>, Containerization, and Cloud Platforms.
   I’ve solid problem-solving capabilities, and I’ve participated in Architecting, Designing, Developing, Deploying and Maintaining many Highly Available and Distributed Microservices Applications over the past years. I’ve also been part of the transformation of some Monolithic apps to Microservices Architecture.
 
 
