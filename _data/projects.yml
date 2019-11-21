@@ -1,5 +1,5 @@
-- layout: top-middle
-  name: iDeal On Cloud (In Progress)
+- name: iDeal On Cloud (In Progress)
+  company: ABN AMRO N.V.
   link: https://www.abnamro.nl/en/personal/payments/making-payments/ideal.html
   quote: >
     AWS, Azure, Docker, Kubernetes, Microservices, Java 8+, JUnit 5, Mockito, Aurora DB, Jenkins, Azure DevOps
