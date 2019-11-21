@@ -1,4 +1,5 @@
-- name: iDeal On Cloud (In Progress)
+- layout: top
+  name: iDeal On Cloud (In Progress)
   company: ABN AMRO N.V.
   link: https://www.abnamro.nl/en/personal/payments/making-payments/ideal.html
   quote: >
