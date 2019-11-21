@@ -1,0 +1,20 @@
+- layout: left
+  name: Development
+  description: |
+    Java, Groovy, C# .Net, JavaScript, HTML, CSS, SQL
+- layout: left
+  name: Frameworks
+  description: |
+    Spring Boot, JUnit 4/5, Cucumber, Mockito, TestNG, AngularJS
+- layout: left
+  name: Databases
+  description: |
+    Aurora DB, DynamoDB, MySQL, Oracle, MS SQL Server
+- layout: left
+  name: Tools
+  description: |
+    Docker, Kubernetes, Maven, Git, Jira, Jenkins, Azure DevOps
+- layout: left
+  name: Platforms
+  description: |
+    AWS, Azure
