@@ -9,3 +9,51 @@
     - Formed a new team to develop on the proposed solution for iDEAL
     - Developed new CI/CD pipelines to fit the new way of working
     - Prepared Knowledge sharing sessions for my team and other teams in the organization
+- layout: left 
+  company: Mobiquity B.V.
+  job_title: Java Developer
+  dates: May 2017 - Dec 2017
+  description: |
+    - Participated in Sprint-0 activities for C4T-HSDP project.
+    - Created behavioral driven test suits for Philips’s HSDP (HealthSuite digital platform).
+    - Consulted J&J on how to use HSDP for their C4T (Care4today) platform.
+    - Developed an Alexa skills for Philips's Air purifiers and robot vacuum cleaners.
+- layout: left 
+  company: Mondia Media Group GmbH
+  job_title: Software Engineer
+  dates: June 2016 - April 2017
+  description: |
+    - Participated in all SCRUM activities.
+    - Development and maintenance of Mondia Media Platform APIs.
+    - Development of custom life cycle management APIs for partners and customers.
+    - Integration with mobile operators and other third parties.
+    - Coached other team members and organized knowledge sharing sessions.
+    - Rotated in the SCRUM Master role.
+- layout: left 
+  company: NTG Clarity
+  job_title: Software Engineer
+  dates: June 2015 - May 2016
+  description: |
+    - Worked on development of our NTS (OSS/BSS) system.
+    - Development of custom data migration adaptors.
+    - Participated in design and architecture of company software projects.
+    - Worked on the development of Etisalat Egypt’s Subscription Backend System.
+    - Worked on Vodafone Egypt’s Extranet (DCA) revamp Project.
+- layout: left 
+  company: ChannelVAS
+  job_title: Java Software Engineer
+  dates: March 2015 - May 2015
+  description: |
+    - Developed Web-Application to manage Our AdVoice VAS.
+    - Research work for new technologies and methodologies needed for enhancing our application’s business and performance.
+    - Participated in design and architecture of company software projects.
+    - Gave advices and consultation on current application/database design enhancements.
+- layout: left 
+  company: Medstreaming LLC
+  job_title: Software Engineer
+  dates: September 2013 - March 2015
+  description: |
+    - Worked on development of EMR and PACS
+    - Implemented Integrations with other Medstreaming Products (PACS, and Billing).
+    - Participated in porting the existing EMR to a new OnePage MVC Web Application.
+    - Refactored few big modules in the EMR for separating it into new independent smaller modules in the sake of enhancing the application performance and loading time.
